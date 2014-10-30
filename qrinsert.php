@@ -57,7 +57,7 @@
 				$fullname = "".$fname." ".$lname."";
 				
 				
-				echo '<center><img src="https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=Name: = '.$fullname.'
+				echo '<center><img src="https://chart.googleapis.com/chart?chs=400x400&cht=qr&chl=Name: = '.$fullname.'
 				, Email: = '.$email.'
 				, Major: = '.$major.'
 				, Graduation Date: = '.$graddate.'
